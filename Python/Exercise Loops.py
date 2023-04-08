@@ -1,3 +1,4 @@
+# Q No1: Create a list with store all the prime numbers in it till 100 and print the length of that list.
 n = 0
 m = int(input("Enter the number you want to check prime numbers till that number:"))
 while n<=m:
