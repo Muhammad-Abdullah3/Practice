@@ -1,1 +1,8 @@
 This is the text file we used to uderstand the example of file handling.
+I want to study:
+Data Science
+Artificial Intelligence
+Database
+Data Modeling
+Data Engineering
+Wanna be an Artificial Intelligence Engineer
